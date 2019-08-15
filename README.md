@@ -40,3 +40,8 @@ Ex: App->console->AddFunc(const char* command, j1Module* callback, uint min_arg,
 * When those CVars are changed by the user, a callback must be called
 * Some other CVar properties:
 * Read-only, Min/Max, Default Value
+
+## Secondary TODO'S
+* Abstract GUI into classes
+* make more flexible Scene Manager
+* Add PHYS File System 
