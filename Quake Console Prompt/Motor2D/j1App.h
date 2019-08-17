@@ -24,6 +24,7 @@ class j1Audio;
 class j1SceneManager;
 class j1Fonts;
 class j1Gui;
+class j1Console;
 
 
 class j1App
@@ -103,7 +104,7 @@ public:
 	j1SceneManager*		scene = NULL;
 	j1Fonts*			font = NULL;
 	j1Gui*				gui = NULL;
-	
+	j1Console*			console = NULL;
 
 
 	

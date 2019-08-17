@@ -46,6 +46,9 @@
     <ClCompile Include="j1SceneManager.cpp">
       <Filter>Engine\3. Scenes ==========</Filter>
     </ClCompile>
+    <ClCompile Include="j1Console.cpp">
+      <Filter>Engine\1. Modules =========</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="j1Window.h">
@@ -116,6 +119,9 @@
     </ClInclude>
     <ClInclude Include="p2List.h">
       <Filter>Engine\4. Tools ===========</Filter>
+    </ClInclude>
+    <ClInclude Include="j1Console.h">
+      <Filter>Engine\1. Modules =========</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
